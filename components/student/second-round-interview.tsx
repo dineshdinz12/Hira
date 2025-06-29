@@ -14,7 +14,7 @@ import { MCQInterview } from "@/components/student/mcq-interview"
 import { InterviewResultsModal } from "@/components/student/interview-results-modal"
 
 // Initialize Gemini API
-const genAI = new GoogleGenerativeAI(process.env.NEXT_PUBLIC_GEMINI_API_KEY || "AIzaSyDXOwVz5WJQoL8dXv-f9IkZDN8Qha_w9Io")
+const genAI = new GoogleGenerativeAI(process.env.NEXT_PUBLIC_GEMINI_API_KEY || "")
 
 interface SecondRoundInterviewProps {
   isOpen: boolean
