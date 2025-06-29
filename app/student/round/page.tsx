@@ -13,7 +13,7 @@ import { useToast } from "@/components/ui/use-toast"
 import { LucideClock, LucideCheckCircle2, LucideAlertCircle, LucideArrowRight } from "lucide-react"
 
 // Initialize Gemini API
-const genAI = new GoogleGenerativeAI(process.env.NEXT_PUBLIC_GEMINI_API_KEY || "AIzaSyDXOwVz5WJQoL8dXv-f9IkZDN8Qha_w9Io")
+const genAI = new GoogleGenerativeAI(process.env.NEXT_PUBLIC_GEMINI_API_KEY!)
 
 interface MCQQuestion {
   question: string

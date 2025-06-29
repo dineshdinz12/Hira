@@ -309,8 +309,13 @@ npm install
 3. **Environment configuration:**
 Create a `.env.local` file in the root directory:
 ```env
-# AI Configuration
+# Google Gemini API Key (Server-side)
+# Get your API key from: https://makersuite.google.com/app/apikey
 GEMINI_API_KEY=your_gemini_api_key_here
+
+# Google Gemini API Key (Client-side - must start with NEXT_PUBLIC_)
+# Same API key as above, but for client-side components
+NEXT_PUBLIC_GEMINI_API_KEY=your_gemini_api_key_here
 
 # Application Configuration
 NEXT_PUBLIC_APP_URL=http://localhost:3000

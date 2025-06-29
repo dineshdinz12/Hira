@@ -331,7 +331,7 @@ export default function CodingProctor() {
 
     try {
       // Get evaluation from Gemini
-      const response = await fetch('https://generativelanguage.googleapis.com/v1/models/gemini-1.5-flash:generateContent?key=AIzaSyCuHh58nrNEtJ_ru7YKqDZ4uQttcX8bvWM', {
+      const response = await fetch(`https://generativelanguage.googleapis.com/v1/models/gemini-1.5-flash:generateContent?key=${process.env.NEXT_PUBLIC_GEMINI_API_KEY}`, {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
@@ -505,7 +505,7 @@ FEEDBACK: [brief explanation of the solution]`
     }
 
     try {
-      const response = await fetch('https://generativelanguage.googleapis.com/v1/models/gemini-1.5-flash:generateContent?key=AIzaSyCuHh58nrNEtJ_ru7YKqDZ4uQttcX8bvWM', {
+      const response = await fetch(`https://generativelanguage.googleapis.com/v1/models/gemini-1.5-flash:generateContent?key=${process.env.NEXT_PUBLIC_GEMINI_API_KEY}`, {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
@@ -603,11 +603,11 @@ FEEDBACK: [brief explanation]`
 
   const evaluateConceptAnswer = async (answer: string, question: string) => {
     try {
-      const response = await fetch('https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent', {
+      const response = await fetch(`https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=${process.env.NEXT_PUBLIC_GEMINI_API_KEY}`, {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
-          'Authorization': `Bearer AIzaSyCuHh58nrNEtJ_ru7YKqDZ4uQttcX8bvWM`
+          'Authorization': `Bearer ${process.env.NEXT_PUBLIC_GEMINI_API_KEY}`
         },
         body: JSON.stringify({
           contents: [{
@@ -725,11 +725,11 @@ FEEDBACK: [brief explanation]`
 
   const evaluateTrickyAnswer = async (answer: string, question: string) => {
     try {
-      const response = await fetch('https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent', {
+      const response = await fetch(`https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=${process.env.NEXT_PUBLIC_GEMINI_API_KEY}`, {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
-          'Authorization': `Bearer AIzaSyCuHh58nrNEtJ_ru7YKqDZ4uQttcX8bvWM`
+          'Authorization': `Bearer ${process.env.NEXT_PUBLIC_GEMINI_API_KEY}`
         },
         body: JSON.stringify({
           contents: [{

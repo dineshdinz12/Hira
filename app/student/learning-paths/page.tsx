@@ -1,6 +1,6 @@
 "use client"
 
-import { useState, useEffect } from "react"
+import { useState, useEffect, Suspense } from "react"
 import { useSearchParams } from "next/navigation"
 import { StudentSidebar } from "@/components/student/sidebar"
 import { Card, CardContent, CardDescription, CardFooter, CardHeader, CardTitle } from "@/components/ui/card"
@@ -66,7 +66,7 @@ type LearningPathsData = {
   [key: string]: LearningPath
 }
 
-export default function LearningPaths() {
+function LearningPathsContent() {
   const searchParams = useSearchParams()
   const [selectedPath, setSelectedPath] = useState<string | null>(null)
   const [searchQuery, setSearchQuery] = useState("")
@@ -801,5 +801,13 @@ export default function LearningPaths() {
         </div>
       </main>
     </div>
+  )
+}
+
+export default function LearningPaths() {
+  return (
+    <Suspense fallback={<div>Loading...</div>}>
+      <LearningPathsContent />
+    </Suspense>
   )
 }
