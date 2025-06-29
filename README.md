@@ -642,10 +642,8 @@ npm run test:e2e
 
 ## 📞 Contact Information
 
-- **Project Maintainer:** [Your Name]
-- **Email:** [your.email@example.com]
-- **GitHub:** [github.com/yourusername]
-- **LinkedIn:** [linkedin.com/in/yourprofile]
+- **Project Maintainer:** [DINESH R]
+- **Email:** [r.dineshdinz12@gmail.com]
 
 ## 🙏 Acknowledgments
 
