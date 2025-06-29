@@ -40,8 +40,8 @@ interface ATSAnalysis {
   suggestions: string[];
 }
 
-const GEMINI_API_KEY = "AIzaSyCuHh58nrNEtJ_ru7YKqDZ4uQttcX8bvWM"
-const GEMINI_API_URL = "https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent"
+const GEMINI_API_KEY = ""
+const GEMINI_API_URL = ""
 
 export default function ResumeBuilder() {
   const [jobDescription, setJobDescription] = useState("")
