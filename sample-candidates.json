@@ -1,0 +1,482 @@
+[
+  {
+    "id": "1",
+    "name": "John Doe",
+    "skills": [
+      "JavaScript",
+      "React",
+      "Node.js",
+      "TypeScript",
+      "MongoDB",
+      "AWS",
+      "Docker",
+      "CI/CD"
+    ],
+    "experience": 5,
+    "education": "Master of Science in Computer Science",
+    "projects": [
+      "E-commerce Platform with Microservices",
+      "Real-time Chat Application",
+      "Cloud Migration Project"
+    ],
+    "softSkills": [
+      "Leadership",
+      "Communication",
+      "Problem Solving",
+      "Team Collaboration",
+      "Time Management"
+    ],
+    "location": "San Francisco, CA",
+    "languages": ["English", "Spanish"],
+    "certifications": ["AWS Certified Developer", "Scrum Master"],
+    "availability": "2 weeks notice"
+  },
+  {
+    "id": "2",
+    "name": "Jane Smith",
+    "skills": [
+      "Python",
+      "Machine Learning",
+      "TensorFlow",
+      "PyTorch",
+      "Data Analysis",
+      "SQL",
+      "Pandas",
+      "Scikit-learn"
+    ],
+    "experience": 4,
+    "education": "PhD in Artificial Intelligence",
+    "projects": [
+      "Image Classification System",
+      "Predictive Analytics Model",
+      "Natural Language Processing Pipeline"
+    ],
+    "softSkills": [
+      "Research",
+      "Analytical Thinking",
+      "Presentation",
+      "Mentoring",
+      "Adaptability"
+    ],
+    "location": "Boston, MA",
+    "languages": ["English", "Mandarin"],
+    "certifications": ["TensorFlow Developer", "Data Science Specialization"],
+    "availability": "Immediate"
+  },
+  {
+    "id": "3",
+    "name": "Alex Johnson",
+    "skills": [
+      "Java",
+      "Spring Boot",
+      "Kubernetes",
+      "Docker",
+      "Microservices",
+      "REST API",
+      "SQL",
+      "NoSQL"
+    ],
+    "experience": 6,
+    "education": "Bachelor of Engineering in Software Engineering",
+    "projects": [
+      "Cloud Migration Project",
+      "Microservices Architecture",
+      "API Gateway Implementation"
+    ],
+    "softSkills": [
+      "Architecture Design",
+      "Technical Leadership",
+      "Documentation",
+      "Code Review",
+      "Agile Methodology"
+    ],
+    "location": "Chicago, IL",
+    "languages": ["English"],
+    "certifications": ["Java SE 8 Programmer", "CKAD"],
+    "availability": "1 month notice"
+  },
+  {
+    "id": "4",
+    "name": "Sarah Williams",
+    "skills": [
+      "React",
+      "TypeScript",
+      "Redux",
+      "GraphQL",
+      "Jest",
+      "Cypress",
+      "Webpack",
+      "SASS"
+    ],
+    "experience": 3,
+    "education": "Bachelor of Science in Computer Science",
+    "projects": [
+      "Single Page Application",
+      "Component Library",
+      "Testing Framework Integration"
+    ],
+    "softSkills": [
+      "UI/UX Design",
+      "Code Quality",
+      "Testing",
+      "Attention to Detail",
+      "Continuous Learning"
+    ],
+    "location": "Austin, TX",
+    "languages": ["English", "French"],
+    "certifications": ["Front-End Developer Nanodegree"],
+    "availability": "Immediate"
+  },
+  {
+    "id": "5",
+    "name": "Michael Brown",
+    "skills": [
+      "DevOps",
+      "AWS",
+      "Terraform",
+      "Jenkins",
+      "Ansible",
+      "Linux",
+      "Bash Scripting",
+      "Monitoring"
+    ],
+    "experience": 7,
+    "education": "Master of Science in Cloud Computing",
+    "projects": [
+      "Infrastructure as Code",
+      "CI/CD Pipeline",
+      "Cloud Security Implementation"
+    ],
+    "softSkills": [
+      "System Architecture",
+      "Security",
+      "Automation",
+      "Troubleshooting",
+      "Process Improvement"
+    ],
+    "location": "Seattle, WA",
+    "languages": ["English"],
+    "certifications": ["AWS Solutions Architect", "CKA"],
+    "availability": "3 weeks notice"
+  },
+  {
+    "id": "6",
+    "name": "Emily Chen",
+    "skills": [
+      "Python",
+      "Django",
+      "Flask",
+      "PostgreSQL",
+      "REST API",
+      "Celery",
+      "Redis",
+      "Docker"
+    ],
+    "experience": 4,
+    "education": "Bachelor of Science in Computer Engineering",
+    "projects": [
+      "Scalable Backend System",
+      "Payment Processing API",
+      "Data Processing Pipeline"
+    ],
+    "softSkills": [
+      "Backend Architecture",
+      "Performance Optimization",
+      "Debugging",
+      "Code Reviews",
+      "Agile Development"
+    ],
+    "location": "New York, NY",
+    "languages": ["English", "Mandarin"],
+    "certifications": ["Python Institute Certification"],
+    "availability": "Immediate"
+  },
+  {
+    "id": "7",
+    "name": "David Wilson",
+    "skills": [
+      "C#",
+      ".NET Core",
+      "Azure",
+      "SQL Server",
+      "Entity Framework",
+      "Microservices",
+      "Docker",
+      "Kubernetes"
+    ],
+    "experience": 8,
+    "education": "Master of Computer Applications",
+    "projects": [
+      "Enterprise Application Development",
+      "Cloud-Native Application",
+      "Legacy System Migration"
+    ],
+    "softSkills": [
+      "Enterprise Architecture",
+      "Technical Consulting",
+      "Mentoring",
+      "Requirements Analysis",
+      "Stakeholder Management"
+    ],
+    "location": "Atlanta, GA",
+    "languages": ["English", "German"],
+    "certifications": ["Microsoft Certified: Azure Developer"],
+    "availability": "1 month notice"
+  },
+  {
+    "id": "8",
+    "name": "Olivia Martinez",
+    "skills": [
+      "Swift",
+      "iOS Development",
+      "UIKit",
+      "SwiftUI",
+      "Core Data",
+      "Combine",
+      "XCTest",
+      "Firebase"
+    ],
+    "experience": 5,
+    "education": "Bachelor of Science in Mobile Development",
+    "projects": [
+      "Health Tracking App",
+      "E-commerce Mobile App",
+      "AR Navigation Application"
+    ],
+    "softSkills": [
+      "Mobile UX",
+      "App Store Optimization",
+      "Prototyping",
+      "Cross-functional Collaboration",
+      "Accessibility"
+    ],
+    "location": "Portland, OR",
+    "languages": ["English", "Spanish"],
+    "certifications": ["Apple Certified iOS Developer"],
+    "availability": "2 weeks notice"
+  },
+  {
+    "id": "9",
+    "name": "Daniel Taylor",
+    "skills": [
+      "Android",
+      "Kotlin",
+      "Jetpack Compose",
+      "Room",
+      "Retrofit",
+      "Dagger Hilt",
+      "Coroutines",
+      "Firebase"
+    ],
+    "experience": 4,
+    "education": "Bachelor of Science in Computer Science",
+    "projects": [
+      "Social Media App",
+      "Fitness Tracking App",
+      "Mobile Banking App"
+    ],
+    "softSkills": [
+      "Material Design",
+      "Performance Tuning",
+      "Google Play Submission",
+      "Code Reviews",
+      "Mentoring"
+    ],
+    "location": "Denver, CO",
+    "languages": ["English"],
+    "certifications": ["Associate Android Developer"],
+    "availability": "Immediate"
+  },
+  {
+    "id": "10",
+    "name": "Sophia Anderson",
+    "skills": [
+      "Data Science",
+      "Python",
+      "SQL",
+      "Tableau",
+      "Power BI",
+      "Spark",
+      "Hadoop",
+      "Statistics"
+    ],
+    "experience": 6,
+    "education": "Master of Science in Data Science",
+    "projects": [
+      "Customer Segmentation Model",
+      "Sales Forecasting System",
+      "Big Data Processing Pipeline"
+    ],
+    "softSkills": [
+      "Data Visualization",
+      "Business Intelligence",
+      "Storytelling",
+      "Stakeholder Communication",
+      "Problem Solving"
+    ],
+    "location": "Chicago, IL",
+    "languages": ["English", "French"],
+    "certifications": ["Google Data Analytics Professional"],
+    "availability": "3 weeks notice"
+  },
+  {
+    "id": "11",
+    "name": "James Thomas",
+    "skills": [
+      "Cybersecurity",
+      "Penetration Testing",
+      "SIEM",
+      "Firewalls",
+      "Incident Response",
+      "NIST Framework",
+      "Kali Linux",
+      "Network Security"
+    ],
+    "experience": 7,
+    "education": "Master of Science in Cybersecurity",
+    "projects": [
+      "Vulnerability Assessment",
+      "Security Operations Center Implementation",
+      "Compliance Audit"
+    ],
+    "softSkills": [
+      "Risk Assessment",
+      "Security Policies",
+      "Forensics",
+      "Training",
+      "Documentation"
+    ],
+    "location": "Washington, DC",
+    "languages": ["English"],
+    "certifications": ["CISSP", "CEH"],
+    "availability": "1 month notice"
+  },
+  {
+    "id": "12",
+    "name": "Isabella Jackson",
+    "skills": [
+      "UX Design",
+      "UI Design",
+      "Figma",
+      "Sketch",
+      "Adobe XD",
+      "User Research",
+      "Prototyping",
+      "Design Systems"
+    ],
+    "experience": 5,
+    "education": "Bachelor of Fine Arts in Design",
+    "projects": [
+      "Enterprise SaaS Redesign",
+      "Mobile App UI/UX",
+      "Design System Creation"
+    ],
+    "softSkills": [
+      "User Testing",
+      "Wireframing",
+      "Accessibility",
+      "Collaboration",
+      "Presentation"
+    ],
+    "location": "San Francisco, CA",
+    "languages": ["English", "Spanish"],
+    "certifications": ["NN/g UX Certification"],
+    "availability": "Immediate"
+  },
+  {
+    "id": "13",
+    "name": "Benjamin White",
+    "skills": [
+      "Blockchain",
+      "Solidity",
+      "Ethereum",
+      "Smart Contracts",
+      "Web3.js",
+      "Truffle",
+      "Cryptography",
+      "DeFi"
+    ],
+    "experience": 4,
+    "education": "Bachelor of Science in Computer Science",
+    "projects": [
+      "NFT Marketplace",
+      "DAO Implementation",
+      "DeFi Protocol"
+    ],
+    "softSkills": [
+      "Cryptoeconomics",
+      "Whitepaper Analysis",
+      "Community Building",
+      "Research",
+      "Technical Writing"
+    ],
+    "location": "Remote",
+    "languages": ["English", "Russian"],
+    "certifications": ["Blockchain Council Certification"],
+    "availability": "Immediate"
+  },
+  {
+    "id": "14",
+    "name": "Mia Harris",
+    "skills": [
+      "QA Automation",
+      "Selenium",
+      "Cypress",
+      "Jest",
+      "TestNG",
+      "Postman",
+      "Load Testing",
+      "CI/CD Integration"
+    ],
+    "experience": 5,
+    "education": "Bachelor of Science in Software Engineering",
+    "projects": [
+      "Test Automation Framework",
+      "Performance Testing Suite",
+      "Quality Gates Implementation"
+    ],
+    "softSkills": [
+      "Test Planning",
+      "Bug Tracking",
+      "Regression Testing",
+      "Documentation",
+      "Cross-team Collaboration"
+    ],
+    "location": "Austin, TX",
+    "languages": ["English"],
+    "certifications": ["ISTQB Certified Tester"],
+    "availability": "2 weeks notice"
+  },
+  {
+    "id": "15",
+    "name": "William Martin",
+    "skills": [
+      "Go",
+      "Distributed Systems",
+      "gRPC",
+      "Protocol Buffers",
+      "Kafka",
+      "Redis",
+      "Microservices",
+      "Cloud Native"
+    ],
+    "experience": 6,
+    "education": "Master of Science in Computer Science",
+    "projects": [
+      "High-Frequency Trading System",
+      "Distributed Cache",
+      "Event-Driven Architecture"
+    ],
+    "softSkills": [
+      "System Design",
+      "Performance Optimization",
+      "Technical Leadership",
+      "Mentoring",
+      "Code Reviews"
+    ],
+    "location": "New York, NY",
+    "languages": ["English", "Japanese"],
+    "certifications": ["Cloud Native Computing Foundation"],
+    "availability": "3 weeks notice"
+  }
+]

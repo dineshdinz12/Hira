@@ -1,0 +1,815 @@
+{
+  "full_stack_development": {
+    "title": "Full Stack Development",
+    "description": "Master modern web development from frontend to backend",
+    "progress": 0,
+    "status": "in_progress",
+    "current_module": "HTML & CSS Fundamentals",
+    "steps": [
+      {
+        "name": "HTML & CSS Fundamentals",
+        "description": "Learn the building blocks of web development",
+        "completed": false,
+        "topics": [
+          {
+            "name": "HTML Basics",
+            "completed": false,
+            "subtopics": [
+              {
+                "name": "HTML Elements",
+                "content": "Understanding basic HTML elements like headings, paragraphs, links, images",
+                "completed": false,
+                "resources": [
+                  {
+                    "type": "video",
+                    "title": "HTML Crash Course",
+                    "url": "https://www.youtube.com/watch?v=UB1O30fR-EE"
+                  },
+                  {
+                    "type": "tutorial",
+                    "title": "W3Schools HTML Elements",
+                    "url": "https://www.w3schools.com/html/html_elements.asp"
+                  }
+                ]
+              },
+              {
+                "name": "HTML Forms",
+                "content": "Creating and styling forms, input types, form validation",
+                "completed": false,
+                "resources": [
+                  {
+                    "type": "video",
+                    "title": "HTML Forms Tutorial",
+                    "url": "https://www.youtube.com/watch?v=H7tLFS2h7J8"
+                  },
+                  {
+                    "type": "tutorial",
+                    "title": "W3Schools HTML Forms",
+                    "url": "https://www.w3schools.com/html/html_forms.asp"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "CSS Fundamentals",
+            "completed": false,
+            "subtopics": [
+              {
+                "name": "CSS Selectors & Properties",
+                "content": "Understanding CSS selectors, properties, and values",
+                "completed": false,
+                "resources": [
+                  {
+                    "type": "video",
+                    "title": "CSS Crash Course",
+                    "url": "https://www.youtube.com/watch?v=yfoY53QXEnI"
+                  },
+                  {
+                    "type": "tutorial",
+                    "title": "W3Schools CSS Selectors",
+                    "url": "https://www.w3schools.com/css/css_selectors.asp"
+                  }
+                ]
+              },
+              {
+                "name": "Flexbox & Grid",
+                "content": "Modern CSS layout techniques",
+                "completed": false,
+                "resources": [
+                  {
+                    "type": "video",
+                    "title": "CSS Flexbox Tutorial",
+                    "url": "https://www.youtube.com/watch?v=3YW65K6LcIA"
+                  },
+                  {
+                    "type": "tutorial",
+                    "title": "W3Schools CSS Flexbox",
+                    "url": "https://www.w3schools.com/css/css3_flexbox.asp"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "JavaScript Fundamentals",
+        "description": "Master the programming language of the web",
+        "completed": false,
+        "topics": [
+          {
+            "name": "JavaScript Basics",
+            "completed": false,
+            "subtopics": [
+              {
+                "name": "Variables & Data Types",
+                "content": "Understanding JavaScript variables, data types, and operators",
+                "completed": false,
+                "resources": [
+                  {
+                    "type": "video",
+                    "title": "JavaScript Crash Course",
+                    "url": "https://www.youtube.com/watch?v=hdI2bqOjy3c"
+                  },
+                  {
+                    "type": "tutorial",
+                    "title": "W3Schools JavaScript Variables",
+                    "url": "https://www.w3schools.com/js/js_variables.asp"
+                  }
+                ]
+              },
+              {
+                "name": "Functions & Objects",
+                "content": "Working with functions and objects in JavaScript",
+                "completed": false,
+                "resources": [
+                  {
+                    "type": "video",
+                    "title": "JavaScript Functions",
+                    "url": "https://www.youtube.com/watch?v=N8uhyY8UZ8U"
+                  },
+                  {
+                    "type": "tutorial",
+                    "title": "W3Schools JavaScript Functions",
+                    "url": "https://www.w3schools.com/js/js_functions.asp"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "React Development",
+        "description": "Build modern user interfaces with React",
+        "completed": false,
+        "topics": [
+          {
+            "name": "React Fundamentals",
+            "completed": false,
+            "subtopics": [
+              {
+                "name": "Components & Props",
+                "content": "Understanding React components, props, and state",
+                "completed": false,
+                "resources": [
+                  {
+                    "type": "tutorial",
+                    "title": "React Documentation - Components",
+                    "url": "https://reactjs.org/docs/components-and-props.html"
+                  }
+                ]
+              },
+              {
+                "name": "Hooks & State Management",
+                "content": "Working with React Hooks and state management",
+                "completed": false,
+                "resources": [
+                  {
+                    "type": "tutorial",
+                    "title": "React Hooks Documentation",
+                    "url": "https://reactjs.org/docs/hooks-intro.html"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Backend Development",
+        "description": "Build robust server-side applications",
+        "completed": false,
+        "topics": [
+          {
+            "name": "Node.js & Express",
+            "completed": false,
+            "subtopics": [
+              {
+                "name": "Node.js Basics",
+                "content": "Understanding Node.js runtime and core modules",
+                "completed": false,
+                "resources": [
+                  {
+                    "type": "tutorial",
+                    "title": "Node.js Documentation",
+                    "url": "https://nodejs.org/en/docs/"
+                  }
+                ]
+              },
+              {
+                "name": "Express.js",
+                "content": "Building web applications with Express.js",
+                "completed": false,
+                "resources": [
+                  {
+                    "type": "tutorial",
+                    "title": "Express.js Documentation",
+                    "url": "https://expressjs.com/"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Database Management",
+        "description": "Work with databases and data persistence",
+        "completed": false,
+        "topics": [
+          {
+            "name": "MongoDB",
+            "completed": false,
+            "subtopics": [
+              {
+                "name": "MongoDB Basics",
+                "content": "Understanding NoSQL databases and MongoDB",
+                "completed": false,
+                "resources": [
+                  {
+                    "type": "tutorial",
+                    "title": "MongoDB Documentation",
+                    "url": "https://docs.mongodb.com/"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "database_design_sql": {
+    "title": "Database Design & SQL",
+    "description": "Master database design, SQL, and data management",
+    "progress": 0,
+    "status": "paused",
+    "current_module": "Database Fundamentals",
+    "steps": [
+      {
+        "name": "Database Fundamentals",
+        "description": "Learn the core concepts of database design and management",
+        "completed": false,
+        "topics": [
+          {
+            "name": "Database Design Principles",
+            "completed": false,
+            "subtopics": [
+              {
+                "name": "Database Normalization",
+                "content": "Understanding database normalization forms and best practices",
+                "completed": false,
+                "resources": [
+                  {
+                    "type": "video",
+                    "title": "Database Normalization Explained",
+                    "url": "https://www.youtube.com/watch?v=GFQaEYEc8_8"
+                  },
+                  {
+                    "type": "tutorial",
+                    "title": "W3Schools Database Normalization",
+                    "url": "https://www.w3schools.com/sql/sql_normalization.asp"
+                  }
+                ]
+              },
+              {
+                "name": "Entity Relationship Diagrams",
+                "content": "Creating and understanding ER diagrams",
+                "completed": false,
+                "resources": [
+                  {
+                    "type": "video",
+                    "title": "ER Diagram Tutorial",
+                    "url": "https://www.youtube.com/watch?v=QpdhBUYk7Kk"
+                  },
+                  {
+                    "type": "tutorial",
+                    "title": "Lucidchart ER Diagram Guide",
+                    "url": "https://www.lucidchart.com/pages/er-diagrams"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "SQL Basics",
+            "completed": false,
+            "subtopics": [
+              {
+                "name": "SQL Syntax & Queries",
+                "content": "Understanding basic SQL syntax and writing queries",
+                "completed": false,
+                "resources": [
+                  {
+                    "type": "video",
+                    "title": "SQL Crash Course",
+                    "url": "https://www.youtube.com/watch?v=HXV3zeQKqGY"
+                  },
+                  {
+                    "type": "tutorial",
+                    "title": "W3Schools SQL Tutorial",
+                    "url": "https://www.w3schools.com/sql/"
+                  }
+                ]
+              },
+              {
+                "name": "Data Manipulation",
+                "content": "INSERT, UPDATE, DELETE operations",
+                "completed": false,
+                "resources": [
+                  {
+                    "type": "tutorial",
+                    "title": "W3Schools SQL Data Manipulation",
+                    "url": "https://www.w3schools.com/sql/sql_insert.asp"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Advanced SQL",
+        "description": "Master complex SQL queries and optimization",
+        "completed": false,
+        "topics": [
+          {
+            "name": "Complex Queries",
+            "completed": false,
+            "subtopics": [
+              {
+                "name": "Joins & Subqueries",
+                "content": "Understanding different types of joins and subqueries",
+                "completed": false,
+                "resources": [
+                  {
+                    "type": "video",
+                    "title": "SQL Joins Explained",
+                    "url": "https://www.youtube.com/watch?v=9yeOJ0ZMUYw"
+                  },
+                  {
+                    "type": "tutorial",
+                    "title": "W3Schools SQL Joins",
+                    "url": "https://www.w3schools.com/sql/sql_join.asp"
+                  }
+                ]
+              },
+              {
+                "name": "Window Functions",
+                "content": "Using window functions for advanced data analysis",
+                "completed": false,
+                "resources": [
+                  {
+                    "type": "tutorial",
+                    "title": "PostgreSQL Window Functions",
+                    "url": "https://www.postgresql.org/docs/current/tutorial-window.html"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Performance Optimization",
+            "completed": false,
+            "subtopics": [
+              {
+                "name": "Indexing",
+                "content": "Understanding database indexes and their impact",
+                "completed": false,
+                "resources": [
+                  {
+                    "type": "video",
+                    "title": "Database Indexing Explained",
+                    "url": "https://www.youtube.com/watch?v=HubezKbFL7E"
+                  },
+                  {
+                    "type": "tutorial",
+                    "title": "PostgreSQL Indexes",
+                    "url": "https://www.postgresql.org/docs/current/indexes.html"
+                  }
+                ]
+              },
+              {
+                "name": "Query Optimization",
+                "content": "Techniques for optimizing SQL queries",
+                "completed": false,
+                "resources": [
+                  {
+                    "type": "tutorial",
+                    "title": "PostgreSQL Query Optimization",
+                    "url": "https://www.postgresql.org/docs/current/performance-tips.html"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "NoSQL Databases",
+        "description": "Learn about non-relational databases",
+        "completed": false,
+        "topics": [
+          {
+            "name": "MongoDB",
+            "completed": false,
+            "subtopics": [
+              {
+                "name": "MongoDB Basics",
+                "content": "Understanding document-based databases",
+                "completed": false,
+                "resources": [
+                  {
+                    "type": "video",
+                    "title": "MongoDB Crash Course",
+                    "url": "https://www.youtube.com/watch?v=Www6cTUyCYQ"
+                  },
+                  {
+                    "type": "tutorial",
+                    "title": "MongoDB Documentation",
+                    "url": "https://docs.mongodb.com/"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Redis",
+            "completed": false,
+            "subtopics": [
+              {
+                "name": "Redis Fundamentals",
+                "content": "Understanding in-memory data structures",
+                "completed": false,
+                "resources": [
+                  {
+                    "type": "tutorial",
+                    "title": "Redis Documentation",
+                    "url": "https://redis.io/documentation"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "ai_machine_learning": {
+    "title": "AI & Machine Learning",
+    "description": "Master artificial intelligence and machine learning fundamentals",
+    "progress": 0,
+    "status": "not_started",
+    "current_module": "Python Fundamentals",
+    "steps": [
+      {
+        "name": "Python Fundamentals",
+        "description": "Learn Python programming for AI and ML",
+        "completed": false,
+        "topics": [
+          {
+            "name": "Python Basics",
+            "completed": false,
+            "subtopics": [
+              {
+                "name": "Python Syntax & Data Structures",
+                "content": "Understanding Python basics, data types, and control structures",
+                "completed": false,
+                "resources": [
+                  {
+                    "type": "video",
+                    "title": "Python for Beginners",
+                    "url": "https://www.youtube.com/watch?v=kqtD5dpn9C8"
+                  },
+                  {
+                    "type": "tutorial",
+                    "title": "Python Documentation",
+                    "url": "https://docs.python.org/3/tutorial/"
+                  }
+                ]
+              },
+              {
+                "name": "NumPy & Pandas",
+                "content": "Data manipulation and analysis libraries",
+                "completed": false,
+                "resources": [
+                  {
+                    "type": "video",
+                    "title": "NumPy Crash Course",
+                    "url": "https://www.youtube.com/watch?v=GB9ByFAIAH4"
+                  },
+                  {
+                    "type": "tutorial",
+                    "title": "Pandas Documentation",
+                    "url": "https://pandas.pydata.org/docs/"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Machine Learning Fundamentals",
+        "description": "Core concepts of machine learning",
+        "completed": false,
+        "topics": [
+          {
+            "name": "Supervised Learning",
+            "completed": false,
+            "subtopics": [
+              {
+                "name": "Linear Regression & Classification",
+                "content": "Understanding basic ML algorithms",
+                "completed": false,
+                "resources": [
+                  {
+                    "type": "video",
+                    "title": "Machine Learning Basics",
+                    "url": "https://www.youtube.com/watch?v=KNAWp2S3w94"
+                  },
+                  {
+                    "type": "tutorial",
+                    "title": "Scikit-learn Documentation",
+                    "url": "https://scikit-learn.org/stable/"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Unsupervised Learning",
+            "completed": false,
+            "subtopics": [
+              {
+                "name": "Clustering & Dimensionality Reduction",
+                "content": "Advanced ML techniques",
+                "completed": false,
+                "resources": [
+                  {
+                    "type": "video",
+                    "title": "Unsupervised Learning",
+                    "url": "https://www.youtube.com/watch?v=8dqdDE3zMkA"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Deep Learning",
+        "description": "Neural networks and deep learning",
+        "completed": false,
+        "topics": [
+          {
+            "name": "Neural Networks",
+            "completed": false,
+            "subtopics": [
+              {
+                "name": "TensorFlow & PyTorch",
+                "content": "Deep learning frameworks",
+                "completed": false,
+                "resources": [
+                  {
+                    "type": "video",
+                    "title": "TensorFlow Tutorial",
+                    "url": "https://www.youtube.com/watch?v=tPYj3fFJGjk"
+                  },
+                  {
+                    "type": "tutorial",
+                    "title": "PyTorch Documentation",
+                    "url": "https://pytorch.org/docs/stable/index.html"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "cloud_architecture": {
+    "title": "Cloud Architecture",
+    "description": "Master cloud computing and architecture",
+    "progress": 0,
+    "status": "not_started",
+    "current_module": "Cloud Fundamentals",
+    "steps": [
+      {
+        "name": "Cloud Fundamentals",
+        "description": "Understanding cloud computing basics",
+        "completed": false,
+        "topics": [
+          {
+            "name": "Cloud Concepts",
+            "completed": false,
+            "subtopics": [
+              {
+                "name": "Cloud Service Models",
+                "content": "IaaS, PaaS, SaaS understanding",
+                "completed": false,
+                "resources": [
+                  {
+                    "type": "video",
+                    "title": "Cloud Computing Explained",
+                    "url": "https://www.youtube.com/watch?v=M988_fsOSWo"
+                  },
+                  {
+                    "type": "tutorial",
+                    "title": "AWS Cloud Concepts",
+                    "url": "https://aws.amazon.com/what-is-cloud-computing/"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "AWS Services",
+        "description": "Amazon Web Services core services",
+        "completed": false,
+        "topics": [
+          {
+            "name": "Compute & Storage",
+            "completed": false,
+            "subtopics": [
+              {
+                "name": "EC2 & S3",
+                "content": "Virtual servers and storage",
+                "completed": false,
+                "resources": [
+                  {
+                    "type": "video",
+                    "title": "AWS EC2 Tutorial",
+                    "url": "https://www.youtube.com/watch?v=lxYM6tV1yWs"
+                  },
+                  {
+                    "type": "tutorial",
+                    "title": "AWS S3 Documentation",
+                    "url": "https://docs.aws.amazon.com/s3/"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "DevOps & CI/CD",
+        "description": "DevOps practices in cloud",
+        "completed": false,
+        "topics": [
+          {
+            "name": "Containerization",
+            "completed": false,
+            "subtopics": [
+              {
+                "name": "Docker & Kubernetes",
+                "content": "Container orchestration",
+                "completed": false,
+                "resources": [
+                  {
+                    "type": "video",
+                    "title": "Docker Crash Course",
+                    "url": "https://www.youtube.com/watch?v=pg19Z8LL06w"
+                  },
+                  {
+                    "type": "tutorial",
+                    "title": "Kubernetes Documentation",
+                    "url": "https://kubernetes.io/docs/home/"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "mobile_development": {
+    "title": "Mobile Development",
+    "description": "Build cross-platform mobile applications",
+    "progress": 0,
+    "status": "not_started",
+    "current_module": "Mobile Development Fundamentals",
+    "steps": [
+      {
+        "name": "Mobile Development Fundamentals",
+        "description": "Core concepts of mobile development",
+        "completed": false,
+        "topics": [
+          {
+            "name": "Mobile UI/UX",
+            "completed": false,
+            "subtopics": [
+              {
+                "name": "Design Principles",
+                "content": "Mobile-first design and user experience",
+                "completed": false,
+                "resources": [
+                  {
+                    "type": "video",
+                    "title": "Mobile UI Design",
+                    "url": "https://www.youtube.com/watch?v=HxplLlkQoBM"
+                  },
+                  {
+                    "type": "tutorial",
+                    "title": "Material Design Guidelines",
+                    "url": "https://material.io/design"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "React Native",
+        "description": "Cross-platform development with React Native",
+        "completed": false,
+        "topics": [
+          {
+            "name": "React Native Basics",
+            "completed": false,
+            "subtopics": [
+              {
+                "name": "Components & Navigation",
+                "content": "Building mobile apps with React Native",
+                "completed": false,
+                "resources": [
+                  {
+                    "type": "video",
+                    "title": "React Native Tutorial",
+                    "url": "https://www.youtube.com/watch?v=VozPNrt-LfE"
+                  },
+                  {
+                    "type": "tutorial",
+                    "title": "React Native Documentation",
+                    "url": "https://reactnative.dev/docs/getting-started"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Native Development",
+        "description": "Platform-specific development",
+        "completed": false,
+        "topics": [
+          {
+            "name": "iOS Development",
+            "completed": false,
+            "subtopics": [
+              {
+                "name": "Swift & UIKit",
+                "content": "iOS app development with Swift",
+                "completed": false,
+                "resources": [
+                  {
+                    "type": "video",
+                    "title": "Swift Tutorial",
+                    "url": "https://www.youtube.com/watch?v=comQ1-x2a1Q"
+                  },
+                  {
+                    "type": "tutorial",
+                    "title": "Swift Documentation",
+                    "url": "https://docs.swift.org/swift-book/"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Android Development",
+            "completed": false,
+            "subtopics": [
+              {
+                "name": "Kotlin & Android SDK",
+                "content": "Android app development",
+                "completed": false,
+                "resources": [
+                  {
+                    "type": "video",
+                    "title": "Android Development",
+                    "url": "https://www.youtube.com/watch?v=fis26HvvDII"
+                  },
+                  {
+                    "type": "tutorial",
+                    "title": "Android Documentation",
+                    "url": "https://developer.android.com/docs"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+} 

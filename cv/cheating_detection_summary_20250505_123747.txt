@@ -1,0 +1,23 @@
+
+Session Summary:
+---------------
+Duration: 22.2 seconds
+Total Frames: 659
+
+Risk Distribution:
+- High Risk: 0 frames
+- Medium Risk: 75 frames
+- Low Risk: 229 frames
+- Safe: 355 frames
+
+Incidents:
+- Multiple Faces: 0 times
+- Face Absence: 0 times
+
+Statistics:
+- Average Risk Score: 0.34
+- Maximum Risk Score: 0.72
+- Risky Behavior: 11.4% of session
+
+Final Score: 33/100
+Final Verdict: LOW RISK - Minor suspicious behavior
