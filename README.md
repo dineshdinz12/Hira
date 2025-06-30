@@ -576,17 +576,17 @@ const sanitizeUserData = (data: any) => {
 
 ### 9.2 Technical Roadmap
 
-#### 9.2.1 Q1 2024
+#### 9.2.1 Q1 2025
 - [ ] Real-time video interviews
 - [ ] Advanced bias detection
 - [ ] Mobile responsive optimization
 
-#### 9.2.2 Q2 2024
+#### 9.2.2 Q2 2025
 - [ ] Enterprise dashboard
 - [ ] API rate limiting
 - [ ] Advanced analytics
 
-#### 9.2.3 Q3 2024
+#### 9.2.3 Q3 2025
 - [ ] Multi-language support
 - [ ] Mobile application
 - [ ] Third-party integrations
